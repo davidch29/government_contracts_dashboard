@@ -108,4 +108,4 @@ This analysis is particularly relevant to the Tampa Bay defense market:
 ## Author
 
 **David Chirino**  
-Data Analyst | Tampa, FL  
+Data Analyst | Omaha, NE
